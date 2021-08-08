@@ -5,4 +5,5 @@ Amazing Prime Video is a platform for streaming movies and tv shows. They have d
 
 ## Resources
 Data Sources: wikipedia-movies.json, movies_metadata.csv (Kaggle Data), ratings.csv (MovieLens rating data)
+
 Software: PostGreSQL 11, pgAdmin 4, Anaconda 4.10.1, Pandas, json, numpy, re, time and sqlalchemy Libraries, PythonData kernel; Jupyter Notebook
