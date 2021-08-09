@@ -8,7 +8,7 @@ Data Sources: wikipedia-movies.json, movies_metadata.csv (Kaggle Data), ratings.
 
 Software: PostGreSQL 11, pgAdmin 4, Anaconda 4.10.1, Pandas, json, numpy, re, time and sqlalchemy Libraries, PythonData kernel; Jupyter Notebook
 
-Deliverables:
+## Deliverables
 1. The ```ETL_function_test.ipynb``` file
 2. The ```ETL_clean_wiki_movies.ipynb``` file
 3. The ```ETL_clean_kaggle_data.ipynb``` file
