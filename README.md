@@ -6,11 +6,9 @@ Amazing Prime Video is a platform for streaming movies and tv shows. They have d
 ## Resources
 **Data Sources:** ```wikipedia-movies.json```, ```movies_metadata.csv``` (Kaggle Data), ```ratings.csv``` (MovieLens rating data)
 
-**Software:** PostGreSQL 11, pgAdmin 4, Anaconda 4.10.1, Pandas, json, numpy, re, time and sqlalchemy Libraries, PythonData kernel; Jupyter Notebook
+**Software:** PostGreSQL 11, pgAdmin 4, Anaconda 4.10.1, Pandas, numpy and sqlalchemy Libraries, PythonData kernel; Jupyter Notebook
 
-## Deliverables
-1. The ```ETL_function_test.ipynb``` file
-2. The ```ETL_clean_wiki_movies.ipynb``` file
-3. The ```ETL_clean_kaggle_data.ipynb``` file
-4. The ```ETL_create_database.ipynb``` file
-5. The Resources folder with the ```wikipedia-movies.json```, ```movies_metadata.csv```, ```movies_query.png```, and ```ratings_query.png``` files.
+## Results
+
+
+## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
